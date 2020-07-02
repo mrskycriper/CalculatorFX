@@ -1,0 +1,11 @@
+.button
+{
+    -fx-background-color: #ec9977;
+    -fx-border-color: gray;
+}
+
+.button:pressed
+{
+    -fx-background-color: #ecc8d1;
+    -fx-border-color: darkgray;
+}
